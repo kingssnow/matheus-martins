@@ -1,0 +1,12 @@
+.redes-sociais {
+    display: flex;
+    background-color: black;
+    height: 60px;
+    width: 100%;
+   
+}
+.redes-sociais .rede {
+    margin-right: 308px;
+    margin-left: 307px;
+    
+}

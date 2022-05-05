@@ -1,0 +1,28 @@
+.main-banner {
+    box-sizing: border-box; 
+    background-image: url(../assets/img/foto\ matheus.jpg); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 750px;
+    border-bottom: 8px solid #000000;
+    padding-top: 175px;
+    padding-left: 115px;
+}
+.main-banner .wrapper {
+    display: flex;
+    flex-direction:column;
+    width: 640px;
+}
+.main-banner .main-box {
+    margin-bottom: 25px;
+    margin-left: 95px;
+    
+}
+
+.main-banner .navigation {
+    display:flex; 
+    padding-left: 37px;
+    margin-left: 83px;
+    
+}
+
